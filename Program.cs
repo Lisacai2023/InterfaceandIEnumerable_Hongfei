@@ -16,7 +16,6 @@ namespace InterfaceandIEnumerable_Hongfei
             InterfaceExample();
             Preload();
 
-
             //foreach (Student student in studentList)
             //{
             //    Console.WriteLine(student);
