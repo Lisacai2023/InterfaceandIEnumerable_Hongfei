@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceandIEnumerable_Hongfei", "InterfaceandIEnumerable_Hongfei.csproj", "{FE84AD49-6EF1-4AC1-A579-172E252D1E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE84AD49-6EF1-4AC1-A579-172E252D1E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE84AD49-6EF1-4AC1-A579-172E252D1E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE84AD49-6EF1-4AC1-A579-172E252D1E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE84AD49-6EF1-4AC1-A579-172E252D1E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8CF9361-E8AE-432E-8DB6-82F7BFBA753E}
+	EndGlobalSection
+EndGlobal
